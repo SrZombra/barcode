@@ -1,0 +1,17 @@
+{
+  "name": "barcodeinfracia",
+  "version": "1.0.0",
+  "description": "Barcode de infracia, liquidacion",
+  "main": "app.js",
+  "dependencies": {
+    "bwip-js": "^2.0.11",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
